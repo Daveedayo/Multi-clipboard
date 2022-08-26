@@ -22,7 +22,7 @@ In the code written, 2 commands have been created to interact with the multi-cli
 
 The command and their usage are listed below:
 
-##### 1. SAVE
+1. SAVE
 
 From your working directory, run:
 
@@ -30,7 +30,7 @@ From your working directory, run:
 python <filename>(e.g clipboard.py) save
 ``` to save the text you copied, to a json file provided
 
-##### 2. LOAD
+2. LOAD
 
 Run:
 
