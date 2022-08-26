@@ -1,1 +1,1 @@
-{"code": "python multiclipboard.py test \r\nhello world"}
+{"code": "python multiclipboard.py test \r\nhello world", "new_key": "key = input(\"Enter a key: \")"}
