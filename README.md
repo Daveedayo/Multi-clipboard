@@ -26,14 +26,10 @@ The command and their usage are listed below:
 
 From your working directory, run:
 
-```bash
-python <filename>(e.g clipboard.py) save
-``` to save the text you copied, to a json file provided
+python <filename>(e.g clipboard.py) save - to save the text you copied, to a json file provided
 
 2. LOAD
 
 Run:
 
-```bash
-python <filename> load
-``` to show the value attached to the key you've saved.
+python <filename> load - to show the value attached to the key you've saved.
