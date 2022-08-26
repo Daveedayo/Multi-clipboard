@@ -25,11 +25,14 @@ The command and their usage are listed below:
 1 SAVE
 
 From your working directory, run:
+
 ```bash
-python multiclipboard.py save``` - to save the text you copied, to a json file provided
+python multiclipboard.py save - to save the text you copied, to a json file provided
+```
 
 2 LOAD
 
 Run:
 ```bash
-python multiclipboard.py load``` - to show the value attached to the key you've saved.
+python multiclipboard.py load - to show the value attached to the key you've saved.
+```
