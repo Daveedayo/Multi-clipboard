@@ -18,9 +18,19 @@ pip install clipboard
 
 ## Running the software
 
-In the code written, 2 COMMANDS have been created to interact with the multi-clipboard software
+In the code written, 2 commands have been created to interact with the multi-clipboard software
 
 The command and their usage are listed below
 
 ### 1. SAVE
 
+From your working directory, run:
+```bash
+python <filename>(e.g clipboard.py) save
+``` to save the text you copied, to a json file provided
+
+### 2. LOAD
+Run:
+```bash
+python <filename> load
+``` to show the value attached to the key you've saved.
